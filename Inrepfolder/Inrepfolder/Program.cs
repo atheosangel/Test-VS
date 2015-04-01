@@ -11,7 +11,7 @@ namespace Inrepfolder
         {
             //newtestforvsintegration
 
-            /*Ändeurng in VS*/
+            /*Ändeurng in VS2*/
 
         }
     }
